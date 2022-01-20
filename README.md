@@ -3,5 +3,7 @@ TRABAJO DE CLASE
 
 hola como estas
 
-# documentacion (Dev1)
-Documentacion del desarrollador 1 
+
+# DOCUMENTOS (Dev1) 
+documentación de desarrollador 1
+
